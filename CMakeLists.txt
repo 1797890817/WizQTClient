@@ -9,6 +9,7 @@
 # XCODEBUILD      adjust project params to suit for xcode
 #UPDATE_TRANSLATIONS  update transation files
 # PLCrashReporter   use PLCrashReporter for mac, need PLCrashReporter framework
+set(CMAKE_PREFIX_PATH /media/dbdu/Data/GreenSoft/Qt5.14.2/5.14.2/gcc_64/lib/cmake)
 
 if (APPLE)
     cmake_minimum_required(VERSION 2.8.12)

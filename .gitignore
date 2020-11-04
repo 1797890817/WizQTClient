@@ -5,6 +5,7 @@ CMakeLists.txt.user*
 !macos-package/.DS_Store
 *.autosave
 .idea/*
+/cmake-build-debug/
 
 *.user
 
